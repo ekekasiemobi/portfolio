@@ -425,7 +425,7 @@
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
             <div class="row">
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/babies Nitch.PNG" alt="">
+                    <img class="responsive-img" src="img/shop.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
@@ -476,7 +476,7 @@
                 </div>
                
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/shopnest.PNG" alt="" style="z-index: -99">                     
+                    <img class="responsive-img" src="img/prom.PNG" alt="" style="z-index: -99">                     
                 </div>
                  
             </div> <br><br>
@@ -484,7 +484,7 @@
             <div class="row">
                
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/purefood.PNG" alt="">
+                    <img class="responsive-img" src="img/TTPNet.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
