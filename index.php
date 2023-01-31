@@ -436,18 +436,18 @@
                        <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
 
                        <p style="padding-left: 15%; color:#64FFDA">
-                            Tools: Hhtml, css, Jquery and Materializecss
+                            Tools: Html, css, Jquery and Materializecss
                        </p>
 
                        <div style="margin-left: 15%;">
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                            <a href="https://shopNest.netlify.app" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
                                 </button>
                             </a>
                             
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                            <a href="https://github.com/ekekasiemobi/shopnest" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
                                     <i class="fa fa-github" style="margin-right: 10px;"></i> Github
                                 </button>
                             </a>
@@ -464,18 +464,18 @@
                         <p style="color: white; font-size: x-large; padding-left: 10%; padding-top: 5%; margin-bottom: -8px;">Pro M</p>
                         <p style="color: white; padding-left: 10%; padding-right: 17%; padding-top: -5%;">Pro M is a comprehensive product management platform designed to streamline the work of product managers. It empowers them to effectively assign tasks and manage the activities of their team members, ensuring a cohesive and efficient work environment.</p>
                         <p style="padding-left: 10%; color: #64FFDA">
-                            Tools: HTML, CSS, Jquery, and Materialize CSS
+                            Tools: Html,css , Jquery, and Materializecss
                         </p>
 
                         <div style="margin-left: 10%;">
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                            <a href="https://programmanager.netlify.app" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
                                 </button>
                             </a>
                             
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                            <a href="https://github.com/ekekasiemobi/proM" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
                                     <i class="fa fa-github" style="margin-right: 10px;"></i> Github
                                 </button>
                             </a>
@@ -499,18 +499,18 @@
                        <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">TTPnetwork is a career support platform that helps graduates and undergraduates with their job search. Services include CV/resume writing, cover letter writing, LinkedIn optimization, and consultation booking.</p>
 
                        <p style="padding-left: 15%; color:#64FFDA">
-                            Tools: Hhtml, css, Jquery and Materializecss
+                            Tools: Html, css, Jquery and Materializecss
                        </p>
                         
                        <div style="margin-left: 15%;">
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                            <a href="https://TTPNetwork.netlify.app" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
                                 </button>
                             </a>
                             
-                            <a href="https://github.com" target="_blank">
-                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                            <a href="https://github.com/ekekasiemobi/TTPNetwork" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
                                     <i class="fa fa-github" style="margin-right: 10px;"></i> Github
                                 </button>
                             </a>
@@ -558,7 +558,7 @@
                         <div class="row">
                             <div class="col s12 l2 m3 ">
                                 <div style="border:solid; height: 50px; background-color:#112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                   <a href="https://twitter.com/Kassy_Francis" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
+                                   <a href="https://twitter.com/ekekasiemobi" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
                                 </div>
                                
                             </div>
@@ -571,7 +571,7 @@
                             </div>
                             <div class="col s12 l2 m3">
                                 <div style="border:solid; height: 50px; background-color: #112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                    <a href="https://github.com/kassy-francis" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
+                                    <a href="https://github.com/ekekasiemobi" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
                                    
                                 </div>
                                 
@@ -638,7 +638,7 @@
                         <div class="row">
                             <div class="col s12 l2 m2 ">
                                 <div style="border:solid; height: 50px; background-color:#112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                   <a href="https://twitter.com/Kassy_Francis" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
+                                   <a href="https://twitter.com/ekekasiemobi" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
                                 </div>
                                
                             </div>
@@ -651,7 +651,7 @@
                             </div>
                             <div class="col s12 l2 m2">
                                 <div style="border:solid; height: 50px; background-color: #112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                    <a href="https://github.com/kassy-francis" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
+                                    <a href="https://github.com/ekekasiemobi" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
                                    
                                 </div>
                                 
@@ -717,7 +717,7 @@
                         <div class="row">
                             <div class="col s2 l2 m3 ">
                                 <div style="border:solid; height: 50px; background-color:#112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                   <a href="https://twitter.com/Kassy_Francis" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
+                                   <a href="https://twitter.com/ekekasiemobi" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
                                 </div>
                                
                             </div>
@@ -730,7 +730,7 @@
                             </div>
                             <div class="col s2 l2 m3">
                                 <div style="border:solid; height: 50px; background-color: #112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                    <a href="https://github.com/kassy-francis" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
+                                    <a href="https://github.com/ekekasiemobi" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
                                    
                                 </div>
                                 
@@ -773,8 +773,8 @@
     <section style="margin-top:-20px;" class="footer hide-on-small-only">
         <div style=" background-color:#112240;">
             <div class="container center"><br><br>
-                <p style="color: #CCD6F6;font-size: large;">© Copyright Kasiemobi. All Rights Reserved</p> 
-                <p style="color: #CCD6F6;font-size: large;"> Designed and Developed  by Kasiemobi</p>
+                <p style="color: #CCD6F6;font-size: large;">© Copyright Eke Kasiemobi. All Rights Reserved</p> 
+                <p style="color: #CCD6F6;font-size: large;"> Designed and Developed  by Eke Kasiemobi</p>
             </div><br><br>
         </div>
         
@@ -782,8 +782,8 @@
     <section style="margin-top:-34px;" class="footer hide-on-med-and-up">
         <div style=" background-color:#112240;">
             <div class="container center"><br><br>
-               <p style="color: #CCD6F6;font-size: large;">© Copyright Kasiemobi. All Rights Reserved</p> 
-               <p style="color: #CCD6F6;font-size: large;"> Designed and Developed  by Kasiemobi </p>
+               <p style="color: #CCD6F6;font-size: large;">© Copyright Eke Kasiemobi. All Rights Reserved</p> 
+               <p style="color: #CCD6F6;font-size: large;"> Designed and Developed  by Eke Kasiemobi </p>
             </div><br><br>
         </div>
         
