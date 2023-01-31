@@ -89,7 +89,7 @@
        load.style.display='none';
         }
         function run(){
-        setTimeout(stop,3000);
+        setTimeout(stop,0000);
         }
         run();
 
@@ -99,7 +99,7 @@
        load.style.display='none';
         }
         function run1(){
-        setTimeout(stop1,3000);
+        setTimeout(stop1,0000);
         }
         run1();
 
@@ -109,7 +109,7 @@
        load.style.display='none';
         }
         function run2(){
-        setTimeout(stop2,3000);
+        setTimeout(stop2,0000);
         }
         run2();
    </script>
@@ -420,93 +420,69 @@
     
     <div class="scrollspy" id="portfolio"></div>
     <section style="background-color: #0A192F" class="hide-on-small-only">
-        <div  class="container">
+        <div  style="margin-left:3%; margin-right:10%">
             <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Portfolio</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
             <div class="row">
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/shop.PNG" alt="">
+                <div style="margin-top: 4%;" class="col s12 m6 l6 push-l1">
+                    <img class="responsive-img z-depth-2" style="z-index: 9;" src="img/shop.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 200px; background-color:#112240;margin-top: 10%;margin-left: -10%;" class="z-depth-2">
-                       <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Babies Nitche</p>
-                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">A web application for student contest, where thousands of kids gain influence and win cash prices at the same time.</p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Javascript</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Tailwindcss</span>     
-                       </span>
+                    <div style="height: 300px; background-color:#112240;" class="">
+                       <p style="color: white;font-size: x-large;padding-left: 15%;padding-top: 5%;margin-bottom: -8px;">ShopNest</p>
+                       <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
+
+                       <p style="padding-left: 15%; color:#64FFDA">
+                            Tools: Hhtml, css, Jquery and Materializecss
+                       </p>
+                        
                       
                        
                     </div>
                 </div>
             </div> <br><br>
+           
 
             <div class="row">
-               
-                <div class="col s12 m6 l6">
-                   
-                    <div style="height: 200px; background-color:#112240;margin-right:-10%;position: relative;margin-top: 10%;"class="z-depth-2">
-                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Shopnest</p>
-                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">An Ecommerce web application where you can buy items and make payment using an API payment gateway</p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Jquery</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Materializecss</span>     
-                       </span>    
-                      
+                <div class="col s12 m6 l6 push-l1">
+                    <div style="height: 300px; background-color: #112240; margin-right: -10%; position: relative;">
+                        <p style="color: white; font-size: x-large; padding-left: 10%; padding-top: 5%; margin-bottom: -8px;">Pro M</p>
+                        <p style="color: white; padding-left: 10%; padding-right: 17%; padding-top: -5%;">Pro M is a comprehensive product management platform designed to streamline the work of product managers. It empowers them to effectively assign tasks and manage the activities of their team members, ensuring a cohesive and efficient work environment.</p>
+                        <p style="padding-left: 10%; color: #64FFDA">
+                            Tools: HTML, CSS, Jquery, and Materialize CSS
+                        </p>
                     </div>
-                    
                 </div>
-               
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/prom.PNG" alt="" style="z-index: -99">                     
+                    <img class="responsive-img" src="img/prom.PNG" alt="" style=" position: relative; margin-top: 8%">                     
                 </div>
-                 
-            </div> <br><br>
+            </div><br><br>
 
             <div class="row">
-               
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/TTPNet.PNG" alt="">
+                <div  class="col s12 m6 l6 push-l1">
+                    <img class="responsive-img z-depth-2" style="z-index: 9;margin-top:7%" src="img/TTPNet.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 200px; background-color:#112240;margin-top: 10%;margin-left: -10%;"class="z-depth-2">
-                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">purefood</p>
-                       <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> A simple web application for food product. it displays food product in different categories  </p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">jquery</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Materializecss</span>     
-                       </span>
+                    <div style="height: 300px; background-color:#112240;" class="">
+                       <p style="color: white;font-size: x-large;padding-left: 15%;padding-top: 5%;margin-bottom: -8px;">TTPNetwork</p>
+                       <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">TTPnetwork is a career support platform that helps graduates and undergraduates with their job search. Services include CV/resume writing, cover letter writing, LinkedIn optimization, and consultation booking.</p>
+
+                       <p style="padding-left: 15%; color:#64FFDA">
+                            Tools: Hhtml, css, Jquery and Materializecss
+                       </p>
+                        
+                      
+                       
                     </div>
                 </div>
-            </div>
+            </div> 
+ 
+            
+
             
             
         </div> <br><br>
