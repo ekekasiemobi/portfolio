@@ -50,6 +50,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.min.js"></script>
     <link rel="icon" href="img/IMG-20220903-WA0027-removebg-preview (1).png">
     <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/a278e9af44.js" crossorigin="anonymous"></script>
     
     <title>kasiemobi porfolio</title>
 </head>
@@ -419,7 +420,7 @@
     </section>
     
     <div class="scrollspy" id="portfolio"></div>
-    <section style="background-color: #0A192F" class="hide-on-small-only">
+    <section style="background-color: #0A192F" class="">
         <div  style="margin-left:3%; margin-right:10%">
             <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Portfolio</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
@@ -437,8 +438,20 @@
                        <p style="padding-left: 15%; color:#64FFDA">
                             Tools: Hhtml, css, Jquery and Materializecss
                        </p>
-                        
-                      
+
+                       <div style="margin-left: 15%;">
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                                </button>
+                            </a>
+                            
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                                </button>
+                            </a>
+                       </div>
                        
                     </div>
                 </div>
@@ -453,6 +466,20 @@
                         <p style="padding-left: 10%; color: #64FFDA">
                             Tools: HTML, CSS, Jquery, and Materialize CSS
                         </p>
+
+                        <div style="margin-left: 10%;">
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                                </button>
+                            </a>
+                            
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                                </button>
+                            </a>
+                       </div>
                     </div>
                 </div>
                 <div class="col s12 m6 l6">
@@ -475,7 +502,19 @@
                             Tools: Hhtml, css, Jquery and Materializecss
                        </p>
                         
-                      
+                       <div style="margin-left: 15%;">
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                                </button>
+                            </a>
+                            
+                            <a href="https://github.com" target="_blank">
+                                <button style="background-color: black; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-transform:none">
+                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                                </button>
+                            </a>
+                       </div>
                        
                     </div>
                 </div>
@@ -488,99 +527,7 @@
         </div> <br><br>
     </section>
 
-    <section style="background-color: #0A192F" class="hide-on-med-and-up">
-        <div  class="container">
-        <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Portfolio</h5>
-            <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
-            <div class="row">
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/babies Nitch.PNG" alt="">
-                </div>
-                
-                <div class="col s12 m6 l6">
-                    
-                    <div style="height: 230px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
-                       <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Babies Nitche</p>
-                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">A web application for student contest, where thousands of kids gain influence and win cash prices at the same time.</p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">Html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Javascript</span>     
-                       </span><br> <br>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
-                            <span style="color: #112240;">Tailwindcss</span>     
-                       </span>
-                      
-                       
-                    </div>
-                </div>
-            </div> <br><br>
-
-            <div class="row">
-                
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/shopnest.PNG" alt="" style="z-index: -99">                     
-                </div>
-               
-                <div class="col s12 m6 l6">
-                   
-                    <div style="height: 230px; background-color:#112240;position: relative;margin-top: -10%;"class="z-depth-2">
-                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Shopnest</p>
-                        <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">An Ecommerce web application where you can buy items and make payment using an API payment gateway</p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">Html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Javascript</span>     
-                       </span><br> <br>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
-                            <span style="color: #112240;">Materializecss</span>     
-                       </span>    
-                      
-                    </div>
-                    
-                </div>
-               
-                 
-            </div> <br><br>
-
-            <div class="row">
-               
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/purefood.PNG" alt="">
-                </div>
-                
-                <div class="col s12 m6 l6">
-                    
-                    <div style="height: 230px; background-color:#112240;margin-top: -10%"class="z-depth-2">
-                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">purefood</p>
-                       <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> A simple web application for food product. it diplays food product in different categories  </p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">Html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Jquery</span>    
-                       </span><br> <br>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
-                            <span style="color: #112240;">Materializecss</span>     
-                       </span>
-                    </div>
-                </div>
-            </div>
-            
-            
-        </div> <br><br>
-    </section>
+    
 
 
     <div class="scrollspy" id="contact"></div>
