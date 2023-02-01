@@ -192,13 +192,11 @@
                        
                         <!-- <div style="width: 10%; background-color:#64FFDA;height: 3px;"></div><br> -->
                         <p style="color: #CCD6F6;font-size: large; margin-top: 20%;text-align: justify;">
-                            I am a Web Developer specializing in front end development.
-                            Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming
-                            languages with Strong background in product design
+                        I am a seasoned Web Developer with expertise in front-end development, I have extensive experience in all phases of dynamic web project development. My technical proficiency extends to various programming languages, and I have a background in product design.
                             
                         </p>
                         <p style="color: #CCD6F6;font-size: large;">
-                            Besides practicing in many tech programs where i have been trained to have both technical and soft skills, i have acquired high level programming knowledge from takimg online courses.
+                        In addition to on-the-job experience, I have honed my technical and soft skills through various training programs. I have also supplemented my knowledge through the completion of advanced online courses, further solidifying my understanding of programming
                         </p>
                         
                     </div>
@@ -229,13 +227,11 @@
                     <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">About me</h5>
                 <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
                         <p style="color: #CCD6F6;font-size: large;text-align:justify">
-                            I am a Web Developer specializing in front end development.
-                            Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming
-                            languages with Strong background in product design
+                        I am a seasoned Web Developer with expertise in front-end development, I have extensive experience in all phases of dynamic web project development. My technical proficiency extends to various programming languages, and I have a strong background in product design.
                             
                         </p>
                         <p style="color: #CCD6F6;font-size: large;text-align:justify">
-                            Besides practicing in many tech programs where i have been trained to have both technical and soft skills, i have acquired high level programming knowledge from takimg online courses.
+                        In addition to on-the-job experience, I have honed my technical and soft skills through various training programs. I have also supplemented my knowledge through the completion of advanced online courses, further solidifying my understanding of programming
                         </p>
                         
                     </div>
@@ -266,13 +262,11 @@
                         <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">About me</h5>
                         <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br>
                         <p style="color: #CCD6F6; font-size:18px;">
-                            I am a Web Developer specializing in front end development.
-                            Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming
-                            languages with Strong background in product design
+                        I am a seasoned Web Developer with expertise in front-end development, I have extensive experience in all phases of dynamic web project development. My technical proficiency extends to various programming languages, and I have a background in product design.
                             
                         </p>
                         <p style="color: #CCD6F6;font-size:18px;">
-                            Besides practicing in many tech programs where i have been trained to have both technical and soft skills, i have acquired high level programming knowledge from takimg online courses.
+                        In addition to on-the-job experience, I have honed my technical and soft skills through various training programs. I have also supplemented my knowledge through the completion of advanced online courses, further solidifying my understanding of programming
                         </p>
                         
                     </div>
@@ -422,7 +416,7 @@
     <div class="scrollspy" id="portfolio"></div>
     <section style="background-color: #0A192F" class="">
         <div  style="margin-left:3%; margin-right:10%">
-            <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Portfolio</h5>
+            <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Projects</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
             <div class="row">
                 <div style="margin-top: 4%;" class="col s12 m6 l6 push-l1">
