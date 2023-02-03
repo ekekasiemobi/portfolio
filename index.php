@@ -662,7 +662,7 @@
                         <div class="row">
                             <div class="col s12 l2 m3 ">
                                 <div style="border:solid; height: 50px; background-color:#112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                   <a href="https://twitter.com/ekekasiemobi" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
+                                   <a href="https://twitter.com/Kassy_Francis" target="_blank"><img style="margin: 8px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/twitter--v1.png" alt=""></a>
                                 </div>
                                
                             </div>
@@ -675,7 +675,7 @@
                             </div>
                             <div class="col s12 l2 m3">
                                 <div style="border:solid; height: 50px; background-color: #112240;border-color:#64FFDA; width: 50px; border-radius: 30px;">
-                                    <a href="https://github.com/ekekasiemobi" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
+                                    <a href="https://github.com/kassy-francis" target="_blank"><img style="margin: 7px;" src="https://img.icons8.com/ios-glyphs/30/64FFDA/github.png" alt=""></a>
                                    
                                 </div>
                                 
@@ -689,20 +689,20 @@
                             </div>
                         </div> 
                     </div>
-                    <div class="col s12 m1 l1">
+                    <!--<div class="col s12 m1 l1">-->
 
-                    </div>
+                    <!--</div>-->
                     <div class="col s12 l5 m5">
                         <form action="index.php" method="POST">
                             <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Send A Message</h5>
                             <div style="width: 40%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
-                            <input style=" border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:150%;color:white" name="name" type="text" placeholder="Name"><br>
+                            <input style=" border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:130%;color:white" name="name" type="text" placeholder="Name"><br>
                             
-                            <input style="border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:150%;color:white" name="email"  type="email" placeholder="Email"><br>
+                            <input style="border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:130%;color:white" name="email"  type="email" placeholder="Email"><br>
                         
-                            <input style="border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:150%;color:white" name="subject"  type="text" placeholder="Subject"><br>
+                            <input style="border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px;width:130%;color:white" name="subject"  type="text" placeholder="Subject"><br>
                         
-                            <textarea style="height: 120px; width: 154%; border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px; padding-top: 10px;resize: none;color:white" placeholder="Messsage" name="message" id="" cols="50" rows="10"></textarea><br><br>
+                            <textarea style="height: 120px; width: 134%; border: solid 1px rgba(128, 128, 128, 0.623);padding-left: 15px; padding-top: 10px;resize: none;color:white" placeholder="Messsage" name="message" id="" cols="50" rows="10"></textarea><br><br>
                             
                             <button name="submit" onclick="myFunction()"  type="submit" >Send Message</button>
                         </form>
