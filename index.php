@@ -597,26 +597,32 @@
             <div class="row">
                
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/purefood.PNG" alt="">
+                    <img class="responsive-img" src="img/TTPNet.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 230px; background-color:#112240;margin-top: -10%"class="z-depth-2">
-                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">purefood</p>
-                       <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> A simple web application for food product. it diplays food product in different categories  </p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">Html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Jquery</span>    
-                       </span><br> <br>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
-                            <span style="color: #112240;">Materializecss</span>     
-                       </span>
+                    <div style="height: 280px; background-color:#112240;margin-top: -10%"class="z-depth-2">
+                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">TTPNetwork</p>
+                       <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> TTPnetwork is a career support platform that helps graduates and undergraduates with their job search. Services include CV/resume writing, cover letter writing, LinkedIn optimization, and consultation booking.</p>
+
+                       <p style="padding-left: 10%; color:#64FFDA">
+                            Tools: Html, css, Jquery and Materializecss
+                       </p>
+                        
+                       <div style="margin-left: 10%;">
+                            <a href="https://TTPNetwork.netlify.app" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                                </button>
+                            </a>
+                            
+                            <a href="https://github.com/ekekasiemobi/TTPNetwork" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
+                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                                </button>
+                            </a>
+                       </div>
                     </div>
                 </div>
             </div>
