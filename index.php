@@ -90,7 +90,7 @@
        load.style.display='none';
         }
         function run(){
-        setTimeout(stop,0000);
+        setTimeout(stop,3000);
         }
         run();
 
@@ -100,7 +100,7 @@
        load.style.display='none';
         }
         function run1(){
-        setTimeout(stop1,0000);
+        setTimeout(stop1,3000);
         }
         run1();
 
@@ -110,7 +110,7 @@
        load.style.display='none';
         }
         function run2(){
-        setTimeout(stop2,0000);
+        setTimeout(stop2,3000);
         }
         run2();
    </script>
@@ -414,7 +414,7 @@
     </section>
     
     <div class="scrollspy" id="portfolio"></div>
-    <section style="background-color: #0A192F" class="">
+    <section style="background-color: #0A192F" class="hide-on-small-only">
         <div  style="margin-left:3%; margin-right:10%">
             <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Projects</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
@@ -516,6 +516,100 @@
  
             
 
+            
+            
+        </div> <br><br>
+    </section>
+
+    <section style="background-color: #0A192F" class="hide-on-med-and-up">
+        <div  class="container">
+        <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Projects</h5>
+            <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
+            <div class="row">
+                <div class="col s12 m6 l6">
+                    <img class="responsive-img" src="img/babies Nitch.PNG" alt="">
+                </div>
+                
+                <div class="col s12 m6 l6">
+                    
+                    <div style="height: 230px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
+                       <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Babies Nitche</p>
+                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">A web application for student contest, where thousands of kids gain influence and win cash prices at the same time.</p>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
+                            <span style="color: #112240;">Html</span>    
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Css</span>     
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Javascript</span>     
+                       </span><br> <br>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
+                            <span style="color: #112240;">Tailwindcss</span>     
+                       </span>
+                      
+                       
+                    </div>
+                </div>
+            </div> <br><br>
+
+            <div class="row">
+                
+                <div class="col s12 m6 l6">
+                    <img class="responsive-img" src="img/shopnest.PNG" alt="" style="z-index: -99">                     
+                </div>
+               
+                <div class="col s12 m6 l6">
+                   
+                    <div style="height: 230px; background-color:#112240;position: relative;margin-top: -10%;"class="z-depth-2">
+                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Shopnest</p>
+                        <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">An Ecommerce web application where you can buy items and make payment using an API payment gateway</p>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
+                            <span style="color: #112240;">Html</span>    
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Css</span>     
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Javascript</span>     
+                       </span><br> <br>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
+                            <span style="color: #112240;">Materializecss</span>     
+                       </span>    
+                      
+                    </div>
+                    
+                </div>
+               
+                 
+            </div> <br><br>
+
+            <div class="row">
+               
+                <div class="col s12 m6 l6">
+                    <img class="responsive-img" src="img/purefood.PNG" alt="">
+                </div>
+                
+                <div class="col s12 m6 l6">
+                    
+                    <div style="height: 230px; background-color:#112240;margin-top: -10%"class="z-depth-2">
+                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">purefood</p>
+                       <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> A simple web application for food product. it diplays food product in different categories  </p>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
+                            <span style="color: #112240;">Html</span>    
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Css</span>     
+                       </span>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
+                            <span style="color: #112240;">Jquery</span>    
+                       </span><br> <br>
+                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
+                            <span style="color: #112240;">Materializecss</span>     
+                       </span>
+                    </div>
+                </div>
+            </div>
             
             
         </div> <br><br>
