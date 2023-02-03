@@ -90,7 +90,7 @@
        load.style.display='none';
         }
         function run(){
-        setTimeout(stop,3000);
+        setTimeout(stop,0000);
         }
         run();
 
@@ -100,7 +100,7 @@
        load.style.display='none';
         }
         function run1(){
-        setTimeout(stop1,3000);
+        setTimeout(stop1,0000);
         }
         run1();
 
@@ -110,7 +110,7 @@
        load.style.display='none';
         }
         function run2(){
-        setTimeout(stop2,3000);
+        setTimeout(stop2,0000);
         }
         run2();
    </script>
@@ -527,27 +527,32 @@
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
             <div class="row">
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/babies Nitch.PNG" alt="">
+                    <img class="responsive-img" src="img/shop.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 230px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
-                       <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Babies Nitche</p>
-                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">A web application for student contest, where thousands of kids gain influence and win cash prices at the same time.</p>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:10%;padding: 4px 12px;">
-                            <span style="color: #112240;">Html</span>    
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Css</span>     
-                       </span>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;">
-                            <span style="color: #112240;">Javascript</span>     
-                       </span><br> <br>
-                       <span style="background-color: #64FFDA;width:55px; height:30px;border-radius:10px;margin-left:1%;padding: 4px 12px;margin-left:10%">
-                            <span style="color: #112240;">Tailwindcss</span>     
-                       </span>
-                      
+                    <div style="height: 280px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
+                       <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">ShopNest</p>
+                       <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
+
+                       <p style="padding-left: 10%; color:#64FFDA">
+                            Tools: Html, css, Jquery and Materializecss
+                       </p>
+
+                       <div style="margin-left: 10%;">
+                            <a href="https://shopNest.netlify.app" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                                </button>
+                            </a>
+                            
+                            <a href="https://github.com/ekekasiemobi/shopnest" target="_blank">
+                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
+                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                                </button>
+                            </a>
+                       </div>
                        
                     </div>
                 </div>
