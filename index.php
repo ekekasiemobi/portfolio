@@ -540,7 +540,7 @@
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 280px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
+                    <div style="height: 350px; background-color:#112240;margin-top: -10%;" class="z-depth-2">
                        <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">ShopNest</p>
                        <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
 
@@ -548,7 +548,7 @@
                             Tools: Html, css, Jquery and Materializecss
                        </p>
 
-                       <div style="margin-left: 10%;">
+                       <div style="margin-left: 5%;">
                             <a href="https://shopNest.netlify.app" target="_blank">
                                 <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
@@ -574,7 +574,7 @@
                
                 <div class="col s12 m6 l6">
                    
-                    <div style="height: 300px; background-color:#112240;position: relative;margin-top: -10%;"class="z-depth-2">
+                    <div style="height: 350px; background-color:#112240;position: relative;margin-top: -10%;"class="z-depth-2">
                         <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">Pro M</p>
                         <p style="color: white;padding-left: 10%; padding-right:10%;padding-top: -5%;">Pro M is a comprehensive product management platform designed to streamline the work of product managers. It empowers them to effectively assign tasks and manage the activities of their team members, ensuring a cohesive and efficient work environment.</p>
                        
@@ -582,7 +582,7 @@
                             Tools: Html,css , Jquery, and Materializecss
                         </p>
 
-                        <div style="margin-left: 10%;">
+                        <div style="margin-left: 5%;">
                             <a href="https://programmanager.netlify.app" target="_blank">
                                 <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
@@ -610,7 +610,7 @@
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 280px; background-color:#112240;margin-top: -10%"class="z-depth-2">
+                    <div style="height: 350px; background-color:#112240;margin-top: -10%"class="z-depth-2">
                         <p style="color: white;font-size: x-large;padding-left: 10%;padding-top: 5%;margin-bottom: -8px;">TTPNetwork</p>
                        <p style="color: white;padding-left: 10%;padding-right:10%;padding-top: -5%;"> TTPnetwork is a career support platform that helps graduates and undergraduates with their job search. Services include CV/resume writing, cover letter writing, LinkedIn optimization, and consultation booking.</p>
 
@@ -618,7 +618,7 @@
                             Tools: Html, css, Jquery and Materializecss
                        </p>
                         
-                       <div style="margin-left: 10%;">
+                       <div style="margin-left: 5%;">
                             <a href="https://TTPNetwork.netlify.app" target="_blank">
                                 <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
                                 <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
