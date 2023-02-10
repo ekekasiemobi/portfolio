@@ -457,9 +457,10 @@
                 </div>
             </div><br><br>
 
-
             <div class="row parent">
-                <div class="col s12 m6 l6 push-l1 push-m1">
+                
+
+                <div class="col s12 m6 l6 push-m1 push-l1">
                     <div style="height: 330px; background-color: #112240;">
                         <p style="color: white; font-size: x-large; padding-left: 10%; padding-top: 5%; margin-bottom: -8px;">Pro M</p>
                         <p style="color: white; padding-left: 10%; padding-right: 17%; padding-top: -5%;">Pro M is a comprehensive product management platform designed to streamline the work of product managers. It empowers them to effectively assign tasks and manage the activities of their team members, ensuring a cohesive and efficient work environment.</p>
@@ -482,19 +483,20 @@
                        </div>
                     </div>
                 </div>
-                <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/prom.PNG" alt="" style="margin-top: 8%; z-index:99">                     
+                <div class="col s12 m6 l6 p">
+                    <img class="responsive-img" src="img/prom.PNG" alt="" style="margin-top: 8%; z-index:9999">                     
                 </div>
+                
             </div><br><br>
 
-            <div class="row">
-                <div  class="col s12 m6 l6 push-l1">
+            <div class="row parent">
+                <div  class="col s12 m6 l6 push-l1 push-m1">
                     <img class="responsive-img z-depth-2" style="z-index: 9;margin-top:7%" src="img/TTPNet.PNG" alt="">
                 </div>
                 
                 <div class="col s12 m6 l6">
                     
-                    <div style="height: 300px; background-color:#112240;" class="">
+                    <div style="height: 330px; background-color:#112240;" class="">
                        <p style="color: white;font-size: x-large;padding-left: 15%;padding-top: 5%;margin-bottom: -8px;">TTPNetwork</p>
                        <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">TTPnetwork is a career support platform that helps graduates and undergraduates with their job search. Services include CV/resume writing, cover letter writing, LinkedIn optimization, and consultation booking.</p>
 
