@@ -54,7 +54,17 @@
     
     <title>kasiemobi porfolio</title>
 </head>
+
 <body>
+
+<style>
+    .parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+</style>
     
    <div style="width: 100%;height: 100%; position: fixed;background-color: #0A192F;z-index: 99;" id="load_large" class="hide-on-med-and-down">
         <div style="position: fixed;top: 40%;margin-left: 45%;" class="loading">
@@ -418,43 +428,39 @@
         <div  style="margin-left:3%; margin-right:10%">
             <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Projects</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br><br><br>
-            <div class="row">
-                <div style="margin-top: 4%;" class="col s12 m6 l6 push-l1">
+            <div class="row parent">
+                <div  class="col s12 m6 l6 push-l1 push-m1">
                     <img class="responsive-img z-depth-2" style="z-index: 9;" src="img/shop.PNG" alt="">
                 </div>
-                
-                <div class="col s12 m6 l6">
-                    
-                    <div style="height: 300px; background-color:#112240;" class="">
-                       <p style="color: white;font-size: x-large;padding-left: 15%;padding-top: 5%;margin-bottom: -8px;">ShopNest</p>
-                       <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
+        
+                <div style="background-color:#112240; height: 330px;" class="col s12 m6 l6">
+                    <p style="color: white;font-size: x-large;padding-left: 15%;padding-top: 5%;margin-bottom: -8px;">ShopNest</p>
+                    <p style="color: white;padding-left: 15%; padding-right:10%;padding-top: -5%;">ShopNest is an e-commerce platform that enables users to buy products online. The checkout process requires either a login or registration, allowing customers to securely make payments through their credit card or Paystack.</p>
 
-                       <p style="padding-left: 15%; color:#64FFDA">
-                            Tools: Html, css, Jquery and Materializecss
-                       </p>
+                    <p style="padding-left: 15%; color:#64FFDA">
+                        Tools: Html, css, Jquery and Materializecss
+                </p>
 
-                       <div style="margin-left: 15%;">
-                            <a href="https://shopNest.netlify.app" target="_blank">
-                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
-                                <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
-                                </button>
-                            </a>
-                            
-                            <a href="https://github.com/ekekasiemobi/shopnest" target="_blank">
-                                <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
-                                    <i class="fa fa-github" style="margin-right: 10px;"></i> Github
-                                </button>
-                            </a>
-                       </div>
-                       
+                    <div style="margin-left: 15%;">
+                        <a href="https://shopNest.netlify.app" target="_blank">
+                            <button style="background-color: #CCD6F6; color:#0A192F; padding: 10px 20px; border: none; border-radius: 5px;text-transform:none">
+                            <i class="fas fa-globe" style="font-size: 20px; margin-right: 10px;"></i> Open Site
+                            </button>
+                        </a>
+                        
+                        <a href="https://github.com/ekekasiemobi/shopnest" target="_blank">
+                            <button style="background-color: #CCD6F6; color:#0A192F; padding: 11px 20px; border: none; border-radius: 5px; text-transform:none">
+                                <i class="fa fa-github" style="margin-right: 10px;"></i> Github
+                            </button>
+                        </a>
                     </div>
                 </div>
-            </div> <br><br>
-           
+            </div>
+
 
             <div class="row">
                 <div class="col s12 m6 l6 push-l1">
-                    <div style="height: 300px; background-color: #112240; margin-right: -10%; position: relative;">
+                    <div style="height: 300px; background-color: #112240;">
                         <p style="color: white; font-size: x-large; padding-left: 10%; padding-top: 5%; margin-bottom: -8px;">Pro M</p>
                         <p style="color: white; padding-left: 10%; padding-right: 17%; padding-top: -5%;">Pro M is a comprehensive product management platform designed to streamline the work of product managers. It empowers them to effectively assign tasks and manage the activities of their team members, ensuring a cohesive and efficient work environment.</p>
                         <p style="padding-left: 10%; color: #64FFDA">
@@ -477,7 +483,7 @@
                     </div>
                 </div>
                 <div class="col s12 m6 l6">
-                    <img class="responsive-img" src="img/prom.PNG" alt="" style=" position: relative; margin-top: 8%">                     
+                    <img class="responsive-img" src="img/prom.PNG" alt="" style="margin-top: 8%">                     
                 </div>
             </div><br><br>
 
@@ -525,7 +531,7 @@
         <div  class="container">
         <h5 style="font-weight: bold;color: #CCD6F6; margin-top: -10px; display: inline-block;">Projects</h5>
             <div style="width: 30%;background-color: #64FFDA;height: 1px;display: inline-block;"></div><br><br><br>
-            <div class="row">
+            <div style="vertical-align:middle" class="row">
                 <div class="col s12 m6 l6">
                     <img class="responsive-img" src="img/shop.PNG" alt="">
                 </div>

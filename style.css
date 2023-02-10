@@ -1,9 +1,15 @@
 body{
     font-family: 'Open Sans', sans-serif;
-   
+   color:#0A192F ;
   
     
 }
+.parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
 /* From uiverse.io by @satyamchaudharydev */
 .loading {
     --speed-of-animation: 0.9s;
